@@ -49,10 +49,10 @@ source venv/bin/activate
 
 ## Usage
 
-1. Run the script by executing the `download.py` file.
+1. Run the script by executing the `ytDownloader.py` file.
 
 ```bash
-python3 ytDownload.py
+python3 ytDownloader.py
 ```
 
 2. Enter the YouTube video URL when prompted.
